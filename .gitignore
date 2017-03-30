@@ -23,3 +23,8 @@ ii
 *.tar*
 base58
 tests/*.trs
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
